@@ -1,0 +1,13 @@
+Features to Implement:-
+Login Page
+SignUp Page
+Click to call concept
+Schedule an Event (calender event, share generated URL in twitter, linkedin, facebook, hagouts, gmail, skype )
+Doamin=tenant based architecture (sort by @ and group it separate set)
+
+
+Technologies used:-
+Angular.Js
+Node.js
+Mongodb
+
