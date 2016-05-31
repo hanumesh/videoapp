@@ -17,6 +17,7 @@
     "forever": "^0.15.2",
     "jsonwebtoken": "^5.0.2",
     "lodash": "^3.10.0",
+    "material-design-icons": "^2.2.3",
     "mongodb": "^2.1.16",
     "mongoskin": "^2.1.0",
     "q": "^1.4.1",
